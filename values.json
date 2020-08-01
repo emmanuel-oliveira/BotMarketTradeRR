@@ -1,0 +1,16 @@
+{
+  "email": "email@gmail.com",
+  "password": "senha",
+  "valueBuyBBL": 220,
+  "valueSellBBL": 230,
+  "quantMinimunSellBBL": 100000000,
+  "valueBuyORE": 220,
+  "valueSellORE": 230,
+  "quantMinimunSellORE": 100000000,
+  "valueBuyURANIUM": 2250,
+  "valueSellURANIUM": 2300,
+  "quantMinimunSellURANIUM": 10000000,
+  "valueBuyDIAMOND": 1520000,
+  "valueSellDIAMOND": 1600000,
+  "quantMinimunSellDIAMOND":100000
+}
